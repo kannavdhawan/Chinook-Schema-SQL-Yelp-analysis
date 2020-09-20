@@ -1,1 +1,0 @@
-# Chinook-Schema-SQL
